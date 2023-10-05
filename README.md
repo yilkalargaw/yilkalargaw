@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Just having for while doing things publicly
+- 🔭 Just having fun while doing things publicly
 
 
 | Github Stats | Top Languages |
